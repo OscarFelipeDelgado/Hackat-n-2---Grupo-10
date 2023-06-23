@@ -1,20 +1,20 @@
 [
     {
-        "id": "abrigo-01",
+        "id": "abrigo-02",
         "titulo": "Cemento Argos Gris 50kg",
         "imagen": "./img/construccion/cemento.webp",
         "categoria": {
-            "nombre": "Construccion",
+            "nombre": "Construcción",
             "id": "abrigos"
         },
         "precio": 30000
     },
     {
-        "id": "abrigo-02",
+        "id": "abrigo-01",
         "titulo": "Teja Arquitectonica Galvanizada",
         "imagen": "./img/construccion/teja.webp",
         "categoria": {
-            "nombre": "Construccion",
+            "nombre": "Construcción",
             "id": "abrigos"
         },
         "precio": 71890
@@ -24,7 +24,7 @@
         "titulo": "Tanque de Agua 1.000 Litros Negro Eternit",
         "imagen": "./img/construccion/tanque.webp",
         "categoria": {
-            "nombre": "Construccion",
+            "nombre": "Construcción",
             "id": "abrigos"
         },
         "precio": 545900
@@ -34,7 +34,7 @@
         "titulo": "Tubo Sanitario 4' x 6 Mts.",
         "imagen": "./img/construccion/tubo.webp",
         "categoria": {
-            "nombre": "Construccion",
+            "nombre": "Construcción",
             "id": "abrigos"
         },
         "precio": 118900
@@ -44,7 +44,7 @@
         "titulo": "Varilla Corrugada (1/2 Pulg) X 6M",
         "imagen": "./img/construccion/varilla.webp",
         "categoria": {
-            "nombre": "Construccion",
+            "nombre": "Construcción",
             "id": "abrigos"
         },
         "precio": 25640
@@ -54,7 +54,7 @@
         "titulo": "Bloquelón 80X7.7X22.8cm 9.8k 4.93u/m2",
         "imagen": "./img/construccion/bloquelon.webp",
         "categoria": {
-            "nombre": "Construccion",
+            "nombre": "Construcción",
             "id": "abrigos"
         },
         "precio": 4900
@@ -64,7 +64,7 @@
         "titulo": "Polisombra Negra 80% 1.0mt x 4.0mt",
         "imagen": "./img/construccion/polisombra.webp",
         "categoria": {
-            "nombre": "Construccion",
+            "nombre": "Construcción",
             "id": "abrigos"
         },
         "precio": 10990
@@ -74,7 +74,7 @@
         "titulo": "Malla 15X15Cm 4.0Mm (Xx-084) 6X2.35M",
         "imagen": "./img/construccion/malla.webp",
         "categoria": {
-            "nombre": "Construccion",
+            "nombre": "Construcción",
             "id": "abrigos"
         },
         "precio": 97700
@@ -86,83 +86,83 @@
 
     {
         "id": "camiseta-03",
-        "titulo": "Malla 15X15Cm 4.0Mm (Xx-084) 6X2.35M",
-        "imagen": "./img/construccion/malla.webp",
+        "titulo": "Taladro Percutor 3 Velocidades 20 V",
+        "imagen": "./img/construccion/taladro.webp",
         "categoria": {
             "nombre": "Herramienta y maquinaria",
             "id": "camisetas"
         },
-        "precio": 97700
+        "precio": 2529900
     },
     {
         "id": "camiseta-03",
-        "titulo": "Malla 15X15Cm 4.0Mm (Xx-084) 6X2.35M",
-        "imagen": "./img/construccion/malla.webp",
+        "titulo": "Rebajadora Compacta de 18 V",
+        "imagen": "./img/construccion/rebajadora.webp",
         "categoria": {
             "nombre": "Herramienta y maquinaria",
             "id": "camisetas"
         },
-        "precio": 97700
+        "precio": 969900
     },
     {
         "id": "camiseta-03",
-        "titulo": "Malla 15X15Cm 4.0Mm (Xx-084) 6X2.35M",
-        "imagen": "./img/construccion/malla.webp",
+        "titulo": "Pistola de Calor 1500W",
+        "imagen": "./img/construccion/pistolacalor.webp",
         "categoria": {
             "nombre": "Herramienta y maquinaria",
             "id": "camisetas"
         },
-        "precio": 97700
+        "precio": 249900
     },
     {
         "id": "camiseta-03",
-        "titulo": "Malla 15X15Cm 4.0Mm (Xx-084) 6X2.35M",
-        "imagen": "./img/construccion/malla.webp",
+        "titulo": "Polichadora Orbital 9 1/2 Pulgadas",
+        "imagen": "./img/construccion/polichadora.webp",
         "categoria": {
             "nombre": "Herramienta y maquinaria",
             "id": "camisetas"
         },
-        "precio": 97700
+        "precio": 109900
     },
     {
         "id": "camiseta-03",
-        "titulo": "Malla 15X15Cm 4.0Mm (Xx-084) 6X2.35M",
-        "imagen": "./img/construccion/malla.webp",
+        "titulo": "Pistola soplar/aspirar 600W",
+        "imagen": "./img/construccion/sopladora.webp",
         "categoria": {
             "nombre": "Herramienta y maquinaria",
             "id": "camisetas"
         },
-        "precio": 97700
+        "precio": 458900
     },
     {
         "id": "camiseta-03",
-        "titulo": "Malla 15X15Cm 4.0Mm (Xx-084) 6X2.35M",
-        "imagen": "./img/construccion/malla.webp",
+        "titulo": "Pulidora Angular 9Pulg 2200W",
+        "imagen": "./img/construccion/pulidora.webp",
         "categoria": {
             "nombre": "Herramienta y maquinaria",
             "id": "camisetas"
         },
-        "precio": 97700
+        "precio": 697900
     },
     {
         "id": "camiseta-03",
-        "titulo": "Malla 15X15Cm 4.0Mm (Xx-084) 6X2.35M",
-        "imagen": "./img/construccion/malla.webp",
+        "titulo": "Sierra Circular 7-1/4-pulg 1600W",
+        "imagen": "./img/construccion/sierra.webp",
         "categoria": {
             "nombre": "Herramienta y maquinaria",
             "id": "camisetas"
         },
-        "precio": 97700
+        "precio": 415900
     },
     {
         "id": "camiseta-03",
-        "titulo": "Malla 15X15Cm 4.0Mm (Xx-084) 6X2.35M",
-        "imagen": "./img/construccion/malla.webp",
+        "titulo": "Caladora 350w 3000RPM",
+        "imagen": "./img/construccion/caladora.webp",
         "categoria": {
             "nombre": "Herramienta y maquinaria",
             "id": "camisetas"
         },
-        "precio": 97700
+        "precio": 99900
     },
 
 
@@ -171,52 +171,82 @@
 
     {
         "id": "pantalon-01",
-        "titulo": "Pantalón 01",
-        "imagen": "./img/pantalones/01.jpg",
+        "titulo": "Pintura para Interior 5 Galones",
+        "imagen": "./img/construccion/pintura.webp",
         "categoria": {
-            "nombre": "Pantalones",
+            "nombre": "Acabados",
             "id": "pantalones"
         },
-        "precio": 1000
+        "precio": 329900
     },
     {
         "id": "pantalon-02",
-        "titulo": "Pantalón 02",
-        "imagen": "./img/pantalones/02.jpg",
+        "titulo": "Pintura para Interior/Exterior Impermeabilizante 1/4",
+        "imagen": "./img/construccion/impermeabilizante.webp",
         "categoria": {
-            "nombre": "Pantalones",
+            "nombre": "Acabados",
             "id": "pantalones"
         },
-        "precio": 1000
+        "precio": 39400
     },
     {
         "id": "pantalon-03",
-        "titulo": "Pantalón 03",
-        "imagen": "./img/pantalones/03.jpg",
+        "titulo": "Puerta Triplex Okume 60x200cm",
+        "imagen": "./img/construccion/puerta1.webp",
         "categoria": {
-            "nombre": "Pantalones",
+            "nombre": "Acabados",
             "id": "pantalones"
         },
-        "precio": 1000
+        "precio": 131900
     },
     {
         "id": "pantalon-04",
-        "titulo": "Pantalón 04",
-        "imagen": "./img/pantalones/04.jpg",
+        "titulo": "Puerta Prepintada Sinfonía 80x200 Cm",
+        "imagen": "./img/construccion/puerta2.webp",
         "categoria": {
-            "nombre": "Pantalones",
+            "nombre": "Acabados",
             "id": "pantalones"
         },
-        "precio": 1000
+        "precio": 184900
     },
     {
         "id": "pantalon-05",
-        "titulo": "Pantalón 05",
-        "imagen": "./img/pantalones/05.jpg",
+        "titulo": "Pared Concreto Arq 50x20cm",
+        "imagen": "./img/construccion/pared1.webp",
         "categoria": {
-            "nombre": "Pantalones",
+            "nombre": "Acabados",
             "id": "pantalones"
         },
-        "precio": 1000
+        "precio": 123900
+    },
+    {
+        "id": "pantalon-05",
+        "titulo": "Piso Cerámico Porto Multicolor 45.8x45.8 cm ",
+        "imagen": "./img/construccion/piso1.webp",
+        "categoria": {
+            "nombre": "Acabados",
+            "id": "pantalones"
+        },
+        "precio": 61803
+    },
+    {
+        "id": "pantalon-05",
+        "titulo": "Ventana 100x100cm PVC Altavista",
+        "imagen": "./img/construccion/ventana1.webp",
+        "categoria": {
+            "nombre": "Acabados",
+            "id": "pantalones"
+        },
+        "precio": 349900
+    },
+    {
+        "id": "pantalon-05",
+        "titulo": "Puerta 180x210cm Corrediza Vidrio Templado 5mm",
+        "imagen": "./img/construccion/puertaventana.webp",
+        "categoria": {
+            "nombre": "Acabados",
+            "id": "pantalones"
+        },
+        "precio": 2273900
     }
 ]
