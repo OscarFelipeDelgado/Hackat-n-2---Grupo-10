@@ -1,134 +1,174 @@
 [
     {
         "id": "abrigo-01",
-        "titulo": "Abrigo 01",
-        "imagen": "./img/abrigos/01.jpg",
+        "titulo": "Cemento Argos Gris 50kg",
+        "imagen": "./img/construccion/cemento.webp",
         "categoria": {
-            "nombre": "Abrigos",
+            "nombre": "Construccion",
             "id": "abrigos"
         },
-        "precio": 1000
+        "precio": 30000
     },
     {
         "id": "abrigo-02",
-        "titulo": "Abrigo 02",
-        "imagen": "./img/abrigos/02.jpg",
+        "titulo": "Teja Arquitectonica Galvanizada",
+        "imagen": "./img/construccion/teja.webp",
         "categoria": {
-            "nombre": "Abrigos",
+            "nombre": "Construccion",
             "id": "abrigos"
         },
-        "precio": 1000
+        "precio": 71890
     },
     {
         "id": "abrigo-03",
-        "titulo": "Abrigo 03",
-        "imagen": "./img/abrigos/03.jpg",
+        "titulo": "Tanque de Agua 1.000 Litros Negro Eternit",
+        "imagen": "./img/construccion/tanque.webp",
         "categoria": {
-            "nombre": "Abrigos",
+            "nombre": "Construccion",
             "id": "abrigos"
         },
-        "precio": 1000
+        "precio": 545900
     },
     {
         "id": "abrigo-04",
-        "titulo": "Abrigo 04",
-        "imagen": "./img/abrigos/04.jpg",
+        "titulo": "Tubo Sanitario 4' x 6 Mts.",
+        "imagen": "./img/construccion/tubo.webp",
         "categoria": {
-            "nombre": "Abrigos",
+            "nombre": "Construccion",
             "id": "abrigos"
         },
-        "precio": 1000
+        "precio": 118900
     },
     {
         "id": "abrigo-05",
-        "titulo": "Abrigo 05",
-        "imagen": "./img/abrigos/05.jpg",
+        "titulo": "Varilla Corrugada (1/2 Pulg) X 6M",
+        "imagen": "./img/construccion/varilla.webp",
         "categoria": {
-            "nombre": "Abrigos",
+            "nombre": "Construccion",
             "id": "abrigos"
         },
-        "precio": 1000
+        "precio": 25640
     },
     {
         "id": "camiseta-01",
-        "titulo": "Camiseta 01",
-        "imagen": "./img/camisetas/01.jpg",
+        "titulo": "Bloquelón 80X7.7X22.8cm 9.8k 4.93u/m2",
+        "imagen": "./img/construccion/bloquelon.webp",
         "categoria": {
-            "nombre": "Camisetas",
-            "id": "camisetas"
+            "nombre": "Construccion",
+            "id": "abrigos"
         },
-        "precio": 1000
+        "precio": 4900
     },
     {
         "id": "camiseta-02",
-        "titulo": "Camiseta 02",
-        "imagen": "./img/camisetas/02.jpg",
+        "titulo": "Polisombra Negra 80% 1.0mt x 4.0mt",
+        "imagen": "./img/construccion/polisombra.webp",
         "categoria": {
-            "nombre": "Camisetas",
-            "id": "camisetas"
+            "nombre": "Construccion",
+            "id": "abrigos"
         },
-        "precio": 1000
+        "precio": 10990
     },
     {
         "id": "camiseta-03",
-        "titulo": "Camiseta 03",
-        "imagen": "./img/camisetas/03.jpg",
+        "titulo": "Malla 15X15Cm 4.0Mm (Xx-084) 6X2.35M",
+        "imagen": "./img/construccion/malla.webp",
         "categoria": {
-            "nombre": "Camisetas",
+            "nombre": "Construccion",
+            "id": "abrigos"
+        },
+        "precio": 97700
+    },
+
+    
+
+
+
+    {
+        "id": "camiseta-03",
+        "titulo": "Malla 15X15Cm 4.0Mm (Xx-084) 6X2.35M",
+        "imagen": "./img/construccion/malla.webp",
+        "categoria": {
+            "nombre": "Herramienta y maquinaria",
             "id": "camisetas"
         },
-        "precio": 1000
+        "precio": 97700
     },
     {
-        "id": "camiseta-04",
-        "titulo": "Camiseta 04",
-        "imagen": "./img/camisetas/04.jpg",
+        "id": "camiseta-03",
+        "titulo": "Malla 15X15Cm 4.0Mm (Xx-084) 6X2.35M",
+        "imagen": "./img/construccion/malla.webp",
         "categoria": {
-            "nombre": "Camisetas",
+            "nombre": "Herramienta y maquinaria",
             "id": "camisetas"
         },
-        "precio": 1000
+        "precio": 97700
     },
     {
-        "id": "camiseta-05",
-        "titulo": "Camiseta 05",
-        "imagen": "./img/camisetas/05.jpg",
+        "id": "camiseta-03",
+        "titulo": "Malla 15X15Cm 4.0Mm (Xx-084) 6X2.35M",
+        "imagen": "./img/construccion/malla.webp",
         "categoria": {
-            "nombre": "Camisetas",
+            "nombre": "Herramienta y maquinaria",
             "id": "camisetas"
         },
-        "precio": 1000
+        "precio": 97700
     },
     {
-        "id": "camiseta-06",
-        "titulo": "Camiseta 06",
-        "imagen": "./img/camisetas/06.jpg",
+        "id": "camiseta-03",
+        "titulo": "Malla 15X15Cm 4.0Mm (Xx-084) 6X2.35M",
+        "imagen": "./img/construccion/malla.webp",
         "categoria": {
-            "nombre": "Camisetas",
+            "nombre": "Herramienta y maquinaria",
             "id": "camisetas"
         },
-        "precio": 1000
+        "precio": 97700
     },
     {
-        "id": "camiseta-07",
-        "titulo": "Camiseta 07",
-        "imagen": "./img/camisetas/07.jpg",
+        "id": "camiseta-03",
+        "titulo": "Malla 15X15Cm 4.0Mm (Xx-084) 6X2.35M",
+        "imagen": "./img/construccion/malla.webp",
         "categoria": {
-            "nombre": "Camisetas",
+            "nombre": "Herramienta y maquinaria",
             "id": "camisetas"
         },
-        "precio": 1000
+        "precio": 97700
     },
     {
-        "id": "camiseta-08",
-        "titulo": "Camiseta 08",
-        "imagen": "./img/camisetas/08.jpg",
+        "id": "camiseta-03",
+        "titulo": "Malla 15X15Cm 4.0Mm (Xx-084) 6X2.35M",
+        "imagen": "./img/construccion/malla.webp",
         "categoria": {
-            "nombre": "Camisetas",
+            "nombre": "Herramienta y maquinaria",
             "id": "camisetas"
         },
-        "precio": 1000
+        "precio": 97700
     },
+    {
+        "id": "camiseta-03",
+        "titulo": "Malla 15X15Cm 4.0Mm (Xx-084) 6X2.35M",
+        "imagen": "./img/construccion/malla.webp",
+        "categoria": {
+            "nombre": "Herramienta y maquinaria",
+            "id": "camisetas"
+        },
+        "precio": 97700
+    },
+    {
+        "id": "camiseta-03",
+        "titulo": "Malla 15X15Cm 4.0Mm (Xx-084) 6X2.35M",
+        "imagen": "./img/construccion/malla.webp",
+        "categoria": {
+            "nombre": "Herramienta y maquinaria",
+            "id": "camisetas"
+        },
+        "precio": 97700
+    },
+
+
+
+
+
     {
         "id": "pantalon-01",
         "titulo": "Pantalón 01",
