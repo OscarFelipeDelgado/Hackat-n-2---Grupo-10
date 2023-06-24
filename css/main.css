@@ -134,8 +134,7 @@ aside {
 
 main {
     background-color: var(--clr-white);
-    margin: 1rem;
-    margin-left: 0;
+    margin-block: 1rem;
     border-radius: 2rem;
     padding: 3rem;
 }
