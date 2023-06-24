@@ -36,15 +36,16 @@ a {
 }
 
 aside {
-    padding: 2rem;
+    padding: 1.5rem 2rem 0rem 2rem;
     padding-right: 0;
     color: var(--clr-white);
-    position: sticky;
+    position:static;
     top: 0;
-    height: 20vh;
+    height: 6em;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    background-color: var(--clr-main);
 }
 
 .logo {
@@ -67,8 +68,9 @@ aside {
     align-items: center;
     gap: 1rem;
     font-weight: 600;
-    padding: 1rem;
-    font-size: .85rem;
+    padding-block: 0.5rem;
+    padding-inline: 1vw;
+    font-size: 1.2vw;
     width: 100%;
 }
 
@@ -110,7 +112,7 @@ aside {
 }
 
 .boton-carrito {
-    
+    background-color: var(--clr-main);
 }
 
 .numerito {
@@ -190,6 +192,13 @@ main {
 
 /** CARRITO **/
 
+#main-carrito{
+    justify-self: center;
+    align-self: center;
+    min-height: 78vh;
+    min-width: 94vw;
+}
+
 .contenedor-carrito {
     display: flex;
     flex-direction: column;
@@ -199,6 +208,9 @@ main {
 .carrito-vacio,
 .carrito-comprado {
     color: var(--clr-main);
+    text-align: center;
+    font-size: 4vw;
+    padding-block: 10vh;
 }
 
 .carrito-productos {
@@ -287,6 +299,15 @@ main {
     display: none;
 }
 
+footer{
+    background-color: var(--clr-main);
+    padding: 3em;
+}
+
+.texto-footer{
+    color: var(--clr-gray);
+}
+
 /*** MEDIA QUERIES ***/
 
 @media screen and (max-width: 850px) {
@@ -321,13 +342,16 @@ main {
         position: fixed;
         z-index: 9;
         background-color: var(--clr-main);
-        height: 100vh;
+        height: 200em;
         left: 0;
         box-shadow: 0 0 0 100vmax rgba(0, 0, 0, .75);
         transform: translateX(-100%);
         opacity: 0;
         visibility: hidden;
         transition: .2s;
+        justify-content: space-evenly;
+        padding-top: 2.5em;
+        padding-bottom: 173em;
     }
 
     .aside-visible {
@@ -340,6 +364,12 @@ main {
     .boton-menu.active::after {
         display: none;
     }
+
+    .boton-menu {
+        font-size: .6rem;
+        padding: 1em;
+    }
+    
 
     main {
         margin: 1rem;
@@ -356,6 +386,10 @@ main {
         display: flex;
         justify-content: space-between;
         align-items: center;
+    }
+
+    header h1{
+        padding-right: 1em;
     }
 
     .header-mobile .logo {
